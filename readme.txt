@@ -1,0 +1,1 @@
+run ¡°start_1v1.m¡±, ¡±start_1vsAll.m¡±, ¡±start_NN.m¡± for one-vs-one, one-vs-all and neural network respectively.
